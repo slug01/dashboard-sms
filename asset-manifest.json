@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dashboardSMS/static/css/main.34d42df0.css",
+    "main.js": "/dashboardSMS/static/js/main.c46f9d03.js",
+    "index.html": "/dashboardSMS/index.html",
+    "main.34d42df0.css.map": "/dashboardSMS/static/css/main.34d42df0.css.map",
+    "main.c46f9d03.js.map": "/dashboardSMS/static/js/main.c46f9d03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34d42df0.css",
+    "static/js/main.c46f9d03.js"
+  ]
+}
